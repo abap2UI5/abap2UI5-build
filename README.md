@@ -1,10 +1,19 @@
-# abap2UI5-builds
-Builds of abap2UI5
+# abap2UI5-build
 
-| Branch    | Status                | 
-|-----------| ---------------------------| 
-| cloud     | [![build_750](https://github.com/abap2UI5/test/actions/workflows/build_750.yml/badge.svg)](https://github.com/abap2UI5/test/actions/workflows/build_750.yml) |
-| v750   |  [![build_750_addons](https://github.com/abap2UI5/builds/actions/workflows/build_750_addons.yml/badge.svg)](https://github.com/abap2UI5/builds/actions/workflows/build_750_addons.yml)  |
-| v702   |  [![build_750_addons](https://github.com/abap2UI5/builds/actions/workflows/build_750_addons.yml/badge.svg)](https://github.com/abap2UI5/builds/actions/workflows/build_750_addons.yml)  |
+This is my new abap2UI5 project.
 
+### Configuration (build.jsonc)
 
+```json
+{
+  "abap_version": "Cloud",
+  "repositories": [
+    "abap2UI5"
+  ]
+}
+
+```
+
+### Timestamp
+
+Created at: 25. Februar 2025 um 14:40:37
