@@ -1,11 +1,12 @@
-name: auto_downport
+name: build_cloud
 
 on:
-  push:
-    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
-  auto_downport:
+  build_cloud:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -29,8 +30,8 @@ jobs:
         git add *
         git commit -m "Downport changes"
 
-    - name: Switch to Branch 702
-      run: git checkout -b 702
+    - name: Switch to Branch cloud
+      run: git checkout -b cloud
 
     - name: Push Changes
       uses: ad-m/github-push-action@v0.6.0
