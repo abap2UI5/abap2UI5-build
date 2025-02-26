@@ -30,9 +30,9 @@ npm run build
 # make sure you are in the root folder
 cp -r builder/dist/* ../..
 rm -rf builder
-git checkout -b build
+git checkout -b cloud
 git add .
 git commit -m "my new build"
-git push origin build --force
+git push origin cloud --force
 
 ```
