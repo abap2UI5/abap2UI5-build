@@ -8,7 +8,9 @@ Namespace: `zabap2ui5`
 | cloud  | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
 | v750   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 | v702   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
-
+|    |  |
+| v750+frontend   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
+| v750+frontend+addons   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 
 ### Process
 
