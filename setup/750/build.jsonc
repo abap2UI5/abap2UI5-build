@@ -1,8 +1,6 @@
 {
   "abap_version": "Cloud",
   "repositories": [
-    "abap2UI5",
-    "layout-variant-management",
-    "table-maintenance"
+    "abap2UI5"
   ]
 }

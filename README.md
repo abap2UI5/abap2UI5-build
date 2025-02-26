@@ -12,23 +12,24 @@ Namespace: `zabap2ui5`
 | v702   | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
 
 
-### Build
+### Process
 
+1. Create a new build:
 ```sh
-#!/bin/bash
-
-set -e
-
-# Force checkout to the build branch
 git clone https://github.com/abap2UI5/builder
 cd builder
 npm i
-
 rm -rf setup/*
+
+# choose the setup folder you need
 cp -r ../setup/cloud/* setup
 npm run clone && npm run rename && npm run abaplint
+```
+
+2. Save it as a new branch:
+
+```sh
 cp -r dist/* ..
 rm -rf ../builder
-
 
 ```

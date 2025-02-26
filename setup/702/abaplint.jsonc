@@ -10,7 +10,7 @@
       }
     ],
     "syntax": {
-      "version": "Cloud",
+      "version": "v702",
       "errorNamespace": "."
     },
     "rules": {
