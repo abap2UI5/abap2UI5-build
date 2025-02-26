@@ -1,21 +1,13 @@
-# abap2UI5-build
+# abap2UI5-builds
 
-TODO 🚧👷‍♂️🔨
+Builds of abap2UI5
 
-This is my new abap2UI5 project.
+Namespace: `zabap2ui5`
 
-### Configuration (build.jsonc)
 
-```json
-{
-  "abap_version": "Cloud",
-  "repositories": [
-    "abap2UI5"
-  ]
-}
+| Branch    | Status                | 
+|-----------| ---------------------------| 
+| cloud  | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
+| v750   | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
+| v702   | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
 
-```
-
-### Timestamp
-
-Created at: 25. Februar 2025 um 14:40:37
