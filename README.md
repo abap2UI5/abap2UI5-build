@@ -8,8 +8,8 @@ Namespace: `zabap2ui5`
 | Branch    | Status                | 
 |-----------| ---------------------------| 
 | cloud  | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
-| v750   | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
-| v702   | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
+| v750   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
+| v702   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 
 
 ### Process
