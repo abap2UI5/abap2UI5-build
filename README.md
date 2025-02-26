@@ -8,11 +8,11 @@ Namespace: `zabap2ui5`
 | cloud  | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
 | cloud+addons | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 |    |  |
-| v750   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
-| v750+frontend   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
-| v750+frontend+addons   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
+| 750   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
+| 750+frontend   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
+| 750+frontend+addons   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 |    |  |
-| v702   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
+| 702   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 
 ### Process
 
