@@ -5,14 +5,14 @@ Namespace: `zabap2ui5`
 
 | Branch    | Status                | 
 |-----------| ---------------------------| 
-| v702   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
-|    |  |
 | cloud  | ![Static Badge](https://img.shields.io/badge/build-passed-green) |
 | cloud+addons | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 |    |  |
 | v750   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 | v750+frontend   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 | v750+frontend+addons   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
+|    |  |
+| v702   | ![Static Badge](https://img.shields.io/badge/build-no-yellow) |
 
 ### Process
 
