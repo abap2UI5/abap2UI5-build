@@ -1,4 +1,4 @@
-# abap2UI5-builds
+# abap2UI5-build
 
 Namespace: `zabap2ui5`
 
